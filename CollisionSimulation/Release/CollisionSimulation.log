@@ -1,0 +1,8 @@
+﻿  Main.cpp
+Main.cpp(92): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+  Generating code
+  10 of 120 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CollisionSimulation.vcxproj -> C:\Users\Adam Yu\source\repos\CollisionSimulation\Release\CollisionSimulation.exe

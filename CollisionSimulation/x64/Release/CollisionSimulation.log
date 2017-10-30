@@ -1,0 +1,11 @@
+﻿  Ball.cpp
+  Circle.cpp
+  Main.cpp
+  Simulation2D.cpp
+Simulation2D.cpp(77): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Vector.cpp
+  Generating code
+c:\users\adam yu\source\repos\collisionsimulation\collisionsimulation\simulation2d.cpp(73): warning C4715: 'Simulation2D::Spin': not all control paths return a value
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CollisionSimulation.vcxproj -> C:\Users\Adam Yu\source\repos\CollisionSimulation\x64\Release\CollisionSimulation.exe

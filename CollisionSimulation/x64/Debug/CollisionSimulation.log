@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\adam yu\source\repos\collisionsimulation\collisionsimulation\main.cpp(81): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+  CollisionSimulation.vcxproj -> C:\Users\Adam Yu\source\repos\CollisionSimulation\x64\Debug\CollisionSimulation.exe
+  CollisionSimulation.vcxproj -> C:\Users\Adam Yu\source\repos\CollisionSimulation\x64\Debug\CollisionSimulation.pdb (Partial PDB)
